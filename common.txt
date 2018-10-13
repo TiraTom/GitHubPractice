@@ -1,0 +1,5 @@
+CommonFile
+[Mr.A]Hello
+
+
+Who are you? = Mr.A
