@@ -1,5 +1,5 @@
 CommonFile
 [Mr.A]Hello
+[Mr.B]GoodMorning
 
-
-Who are you? = Mr.A
+Who are you? = Mr.B
